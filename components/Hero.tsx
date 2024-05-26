@@ -20,7 +20,7 @@ const Hero = () => {
       </div>
       <div className="w-full lg:w-[50%] flex flex-col gap-10 p-20 justify-center items-center">
         <Image src="/logo.png" data-aos="zoom-in" data-aos-delay="200" width={120} height={100} alt="logo" />
-        <h1 data-aos="zoom-in" data-aos-delay="400" className="text-5xl text-black text-center leading-[55px]">
+        <h1 data-aos="zoom-in" data-aos-delay="400" className="text-[50px] text-black text-center leading-[55px]">
           Fresh breads <br/> handcrafted daily
         </h1>
         <p data-aos="fade-up" data-aos-delay="600" className="text-center text-xl text-slate-600">

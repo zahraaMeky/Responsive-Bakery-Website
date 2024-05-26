@@ -70,3 +70,26 @@ export const clients = [
         'name' : 'MARRY HUDSON'
     },
 ]
+
+export const navLinks = [
+    {
+        'link' : 'About',
+        'path' : 'about'
+    },
+    {
+        'link' : 'Breads',
+        'path' : 'breads'
+    },
+    {
+        'link' : 'Menu',
+        'path' : 'menu'
+    },
+    {
+        'link' : 'Testimonial',
+        'path' : 'testimonial'
+    },
+    {
+        'link' : 'Contact ',
+        'path' : 'contact'
+    },
+]
