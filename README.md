@@ -44,4 +44,3 @@
 
    ```bash
    git clone https://github.com/your-username/next-bakery-landing-page.git
-   cd next-bakery-landing-page
