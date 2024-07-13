@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/40cc9c41-b614-45f2-8130-3f295b822849" alt="Next Bakery Landing Page">
+  <img src="(https://github.com/user-attachments/assets/f978ac1a-70d2-4e2a-a8c5-4ae63c7a7342" alt="Next Bakery Landing Page">
 
   <br />
 </div>
+
 
 <br />
 
