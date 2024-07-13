@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://nextbakerylandingpage.netlify.app/assets/banner.jpg" alt="Next Bakery Landing Page">
+  <img src="https://nextbakerylandingpage.netlify.app/assets/banner.jpg" alt="Next Bakery Landing Page">![readme-githup (3)]()
+
   <br />
 </div>
 <br />
