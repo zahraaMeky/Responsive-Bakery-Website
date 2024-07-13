@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f978ac1a-70d2-4e2a-a8c5-4ae63c7a7342" alt="Next Bakery Landing Page">
+  <img src="https://github.com/user-attachments/assets/d4ce56cc-0e4e-4626-a6ae-32ff91eea5e6" alt="Next Bakery Landing Page">
 
   <br />
 </div>
